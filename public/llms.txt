@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-259e0318.zappy5.app
+https://example.com
 סטודיו קריאייטיב שמוכר זמן יצירה. הפקה מוזיקלית, צילום תדמית, וידאו וכתיבה יוצרת תחת קורת גג אחת. בואו להפוך רעיון למציאות מרגשת.
 
 ### אודות
-https://-259e0318.zappy5.app/about
+https://example.com/about
 הכירו את החזון הרב-תחומי של ג&#39;קי טולדו: עולם שבו הפקת תוכן, צילום ועריכת ווידאו וכתיבה הופכים לסיפור אחד גדול. הצטרפו למסע היצירתי.
 
 ### שירותים
-https://-259e0318.zappy5.app/services
+https://example.com/services
 מחפשים שירותי קריאייטיב מלאים? כאן תמצאו צילום תדמית, הפקה מוזיקלית לאירועי תרבות, וידאו וכתיבה אסטרטגית. כל מה שצריך תחת מותג אחד.
 
 ### דרכי עבודה
-https://-259e0318.zappy5.app/ways-to-work
+https://example.com/ways-to-work
 בין אם אתם עסק, אמן או משפחה – התאימו לעצמכם מסלול עבודה גמיש. צילום ועריכת ווידאו, הפקת תוכן ועוד בדרך שמשרתת את הסיפור שלכם.
 
 ### מנויים
-https://-259e0318.zappy5.app/subscriptions
+https://example.com/subscriptions
 הפכו את הקריאייטיב לחלק בלתי נפרד מהאסטרטגיה שלכם. מנויים חודשיים להפקה מוזיקלית, צילום תדמית ותוכן שוטף. התחילו ליצור ללא הפסקה.
 
 ### צור קשר
-https://-259e0318.zappy5.app/contact
+https://example.com/contact
 יש לכם חזון? אנחנו כאן עם הפקה מוזיקלית לאירועי תרבות, צילום ועריכת ווידאו וכל שירותי הקריאייטיב. השאירו פרטים ונתחיל ליצור יחד.
 
 ### תודה שפנית אלינו
-https://-259e0318.zappy5.app/thank-you
+https://example.com/thank-you
 ג'קי טולדו | סטודיו לקריאייטיב - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-259e0318.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-259e0318.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-259e0318.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -55,8 +55,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-259e0318.zappy5.app/contact
-- Endpoint: https://-259e0318.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -86,6 +86,6 @@ Creative Studio & Production
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-259e0318.zappy5.app/sitemap.xml
-- Robots: https://-259e0318.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-259e0318.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
