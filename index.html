@@ -768,10 +768,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 <a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
@@ -1250,7 +1250,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   <main id="main">
     <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section">
   <!-- Full-bleed background image -->
-  <div data-zappy-zoom-wrapper="true" data-element-id="img-1784536551019-zna36a31j" data-element-type="image" data-zappy-zoom-wrapper-width-mode="full" style="position: absolute; top: 0px !important; left: 0px !important; width: 100%; height: 100%; max-width: none; margin-left: 0px !important; margin-right: 0px !important; z-index: 0 !important; overflow: hidden; inset: 0; max-height: none" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-zoom-wrapper-width="1784px" data-zappy-zoom-wrapper-height="935px" data-zappy-zoom-wrapper-align="center"><img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Warm studio interior with soft natural daylight streaming through a window, acoustic guitar on a stand, a notebook with handwritten lyrics, a camera on a wooden desk, and creative equipment scattered naturally. The composition places the subject toward the right side of the frame, leaving the left side naturally open for a gradient fade. Warm cream and terracotta tones." width="1200" height="600" src="/assets/site-image-index-hero-image-1-1784537040131-f7c2a7.webp?v=1784537043286" alt="סטודיו קריאייטיב חמים עם אור טבעי, גיטרה, מחברת ומצלמה" data-hero-background="true" data-element-type="image" data-element-id="img-1784536551019-zna36a31j" style="object-position: 50% 50%; object-fit: cover; width: 100%; height: 100%; display: block !important; margin: 0; position: absolute; inset: 0; z-index: 0 !important; max-width: none; max-height: none" data-zappy-zoom="1" data-zappy-carousel-image-ready="true" data-zappy-original-width="1784" data-zappy-original-height="935" data-zappy-object-position="50% 50%" decoding="async"></div>
+  <div data-zappy-zoom-wrapper="true" data-element-id="img-1784536551019-zna36a31j" data-element-type="image" data-zappy-zoom-wrapper-width-mode="full" style="position: absolute !important; top: 0px !important; left: 0px !important; width: 100% !important; height: 100% !important; max-width: none !important; margin-left: 0px !important; margin-right: 0px !important; z-index: 0 !important; overflow: hidden !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-zoom-wrapper-width="1784px" data-zappy-zoom-wrapper-height="935px" data-zappy-zoom-wrapper-align="center"><img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Warm studio interior with soft natural daylight streaming through a window, acoustic guitar on a stand, a notebook with handwritten lyrics, a camera on a wooden desk, and creative equipment scattered naturally. The composition places the subject toward the right side of the frame, leaving the left side naturally open for a gradient fade. Warm cream and terracotta tones." width="1200" height="600" src="/assets/site-image-index-hero-image-1-1784537040131-f7c2a7.webp?v=1784537043286" alt="סטודיו קריאייטיב חמים עם אור טבעי, גיטרה, מחברת ומצלמה" data-hero-background="true" data-element-type="image" data-element-id="img-1784536551019-zna36a31j" style="object-position: 50% 50% !important; object-fit: cover; width: 100%; height: 100%; display: block !important; margin: 0px !important; position: absolute !important; inset: -3.24711% 0px 0px 0% !important; z-index: 0 !important; max-width: none !important; max-height: none !important;" data-zappy-zoom="1" data-zappy-carousel-image-ready="true" data-zappy-original-width="1784" data-zappy-original-height="935" data-zappy-object-position="50% 50%" decoding="async"></div>
 
   <!-- Hero content on the solid panel side -->
   <div class="hero-fade-content">
@@ -1278,12 +1278,12 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   </div>
 </section>
 
-<section data-band-index="1" class="index-manifesto-section" data-layout-spec="בית-manifesto">
+<section data-band-index="1" class="index-manifesto-section" data-layout-spec="בית-manifesto" id="index-manifesto-section">
   <div class="index-manifesto-section__container">
     <!-- Narrow centered intro -->
     <div class="index-manifesto-section__intro">
-      <span class="index-manifesto-section__overline">הפילוסופיה שלנו</span>
-      <h2 class="index-manifesto-section__intro-heading">המוצר האמיתי הוא זמן יצירתי</h2>
+      <p class="zappy-editable"><span class="index-manifesto-section__overline">הפילוסופיה שלנו</span>
+      </p><h2 class="index-manifesto-section__intro-heading">המוצר האמיתי הוא זמן יצירתי</h2>
       <p class="index-manifesto-section__intro-text">אנחנו לא מוכרים רק צילום, מוזיקה או וידאו. אנחנו מוכרים גישה מלאה לראש יצירתי אחד — שמקשיב, חושב, יוצר ומפיק עבורכם.</p>
     </div>
 
@@ -1292,7 +1292,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <!-- START column: Serif quote -->
       <div class="index-manifesto-section__quote-col">
         <figure class="index-manifesto-section__quote">
-          <svg class="index-manifesto-section__quote-mark" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <svg class="index-manifesto-section__quote-mark" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" data-element-type="icon" data-element-id="icon-1784536551018-8yebntdvm" data-icon-type="svg">
             <path d="M16 12C10.477 12 6 16.477 6 22v14c0 5.523 4.477 10 10 10h6v-8h-6c-1.105 0-2-.895-2-2v-8c0-1.105.895-2 2-2h8v-14H16zm26 0c-5.523 0-10 4.477-10 10v14c0 5.523 4.477 10 10 10h6v-8h-6c-1.105 0-2-.895-2-2v-8c0-1.105.895-2 2-2h8v-14H42z" fill="currentColor"></path>
           </svg>
           <blockquote>
@@ -1305,14 +1305,14 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       <!-- END column: Two stacked paragraphs -->
       <div class="index-manifesto-section__text-col">
         <p class="index-manifesto-section__body">בין אם אתם צריכים שיר מקורי לטקס בית ספר, סרט תדמית לעסק, הפקת פודקאסט לעמותה, או ליווי קריאייטיבי שוטף — מה שאתם באמת רוכשים זה את היכולת להפוך רעיון למציאות. הסטודיו שלנו בנוי סביב רעיון אחד פשוט: גישה מלאה לכל יכולות ההפקה, הכתיבה, הצילום והמוזיקה — תחת קורת גג אחת.</p>
-        <p class="index-manifesto-section__body">אנחנו מאמינים ביצירה מתוך הקשבה עמוקה. כל פרויקט מתחיל בשיחה, ממשיך בחשיבה אסטרטגית, ומסתיים בתוצר שמספר את הסיפור שלכם בדיוק כמו שדמיינתם — רק טוב יותר. זו לא עסקת שירות חד-פעמית, זו שותפות יצירתית שמלווה אתכם לאורך זמן.</p>
+        
       </div>
-    </div>
+    </div><p class="index-manifesto-section__body" data-element-id="move-1784538215356-8wljrern" style="">אנחנו מאמינים ביצירה מתוך הקשבה עמוקה. כל פרויקט מתחיל בשיחה, ממשיך בחשיבה אסטרטגית, ומסתיים בתוצר שמספר את הסיפור שלכם<br>בדיוק כמו שדמיינתם — רק טוב יותר. זו לא עסקת שירות חד-פעמית, זו שותפות יצירתית שמלווה אתכם לאורך זמן.</p>
 
     <!-- Peeking note card from END-bottom corner -->
     <div class="index-manifesto-section__peek-card" aria-hidden="true">
-      <div class="index-manifesto-section__peek-inner">
-        <span class="index-manifesto-section__peek-icon">🎯</span>
+      <div class="index-manifesto-section__peek-inner" style="">
+        <span class="index-manifesto-section__peek-icon" style="">🎯</span>
         <span class="index-manifesto-section__peek-text">מנוי חודשי = בנק שעות יצירתי</span>
       </div>
     </div>
