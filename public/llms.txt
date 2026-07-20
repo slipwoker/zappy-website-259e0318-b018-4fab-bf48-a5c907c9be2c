@@ -1,0 +1,91 @@
+# ג'קי טולדו | סטודיו לקריאייטיב — Generative Engine Optimization Map
+
+> Jackie Toledo's Studio is a full-service creative powerhouse built around one core concept: selling creative time. The brand positions itself as a premium one-stop destination for music production, photography, video, creative writing, and content strategy. Rather than marketing individual services, the studio sells access to Jackie's full creative capabilities — whether for schools, businesses, NGOs, artists, or families. The brand identity is bold, multidisciplinary, and vision-driven, with a strong emphasis on storytelling, original content creation, and long-term creative partnerships through subscription models.
+
+---
+
+## Pages
+
+### בית
+https://-259e0318.zappy5.app
+סטודיו קריאייטיב שמוכר זמן יצירה. הפקה מוזיקלית, צילום תדמית, וידאו וכתיבה יוצרת תחת קורת גג אחת. בואו להפוך רעיון למציאות מרגשת.
+
+### אודות
+https://-259e0318.zappy5.app/about
+הכירו את החזון הרב-תחומי של ג&#39;קי טולדו: עולם שבו הפקת תוכן, צילום ועריכת ווידאו וכתיבה הופכים לסיפור אחד גדול. הצטרפו למסע היצירתי.
+
+### שירותים
+https://-259e0318.zappy5.app/services
+מחפשים שירותי קריאייטיב מלאים? כאן תמצאו צילום תדמית, הפקה מוזיקלית לאירועי תרבות, וידאו וכתיבה אסטרטגית. כל מה שצריך תחת מותג אחד.
+
+### דרכי עבודה
+https://-259e0318.zappy5.app/ways-to-work
+בין אם אתם עסק, אמן או משפחה – התאימו לעצמכם מסלול עבודה גמיש. צילום ועריכת ווידאו, הפקת תוכן ועוד בדרך שמשרתת את הסיפור שלכם.
+
+### מנויים
+https://-259e0318.zappy5.app/subscriptions
+הפכו את הקריאייטיב לחלק בלתי נפרד מהאסטרטגיה שלכם. מנויים חודשיים להפקה מוזיקלית, צילום תדמית ותוכן שוטף. התחילו ליצור ללא הפסקה.
+
+### צור קשר
+https://-259e0318.zappy5.app/contact
+יש לכם חזון? אנחנו כאן עם הפקה מוזיקלית לאירועי תרבות, צילום ועריכת ווידאו וכל שירותי הקריאייטיב. השאירו פרטים ונתחיל ליצור יחד.
+
+### תודה שפנית אלינו
+https://-259e0318.zappy5.app/thank-you
+ג'קי טולדו | סטודיו לקריאייטיב - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-259e0318.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-259e0318.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-259e0318.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-259e0318.zappy5.app/contact
+- Endpoint: https://-259e0318.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ג'קי טולדו | סטודיו לקריאייטיב
+Jackie Toledo's Studio is a full-service creative powerhouse built around one core concept: selling creative time. The brand positions itself as a premium one-stop destination for music production, photography, video, creative writing, and content strategy. Rather than marketing individual services, the studio sells access to Jackie's full creative capabilities — whether for schools, businesses, NGOs, artists, or families. The brand identity is bold, multidisciplinary, and vision-driven, with a strong emphasis on storytelling, original content creation, and long-term creative partnerships through subscription models.
+
+## Target Audience
+- בתי ספר, עסקים, אמנים, יוצרים, רשויות מקומיות, עמותות, משפחות
+- בתי ספר לתוכניות יצירתיות
+- סדנאות גיבוש לחברות
+- תוכניות תרבות לרשויות מקומיות
+
+## Industry
+Creative Studio & Production
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-259e0318.zappy5.app/sitemap.xml
+- Robots: https://-259e0318.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-259e0318.zappy5.app/llms-full.txt
